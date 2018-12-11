@@ -136,7 +136,7 @@ color: #ffffff
 }
 .hero h1 {
     position: relative;
-    margin-right: -30px;
+    left: -30px;
 }
 .hero h2 {
     color: #faa541;
