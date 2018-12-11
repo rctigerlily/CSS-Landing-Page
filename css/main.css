@@ -68,3 +68,11 @@ color: #ffffff
     font-size: 16px;
     color: #364147;
 }
+.header-nav {
+    border-bottom: 1px #a0a0a0;
+}
+.brand {
+    size: 170x85;
+    margin-right: -15px;
+    margin-left: 60px;
+}
