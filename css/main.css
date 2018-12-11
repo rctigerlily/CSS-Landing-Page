@@ -206,7 +206,7 @@ color: #ffffff
     content: "";
     position: absolute;
     border: 1px solid #ffffff;
-    padding: 30px 30px 50px 50px;
+    margin: 30px 50px;
     z-index: 1;
 }
 .full-banner-image {
