@@ -85,7 +85,7 @@ color: #ffffff
     width: 330px;
     height: 30px;
     padding: 6px 12px;
-    border: 1px solid #a0a0a0;
+    border: 1px solid #a0a0a0; /*shorthand for setting up border properties*/
 }
 .search-button {
     background-color: #a0a0a0;
@@ -111,7 +111,7 @@ color: #ffffff
 }
 .account {
     text-align: right;
-    padding: 15px;
+    padding: 15px; /* adds padding to top, bottom, left and right */
     font-size: 18px;
     color: #364147;
     /* font-size: 14px; */
@@ -124,6 +124,25 @@ color: #ffffff
     height: 60px;
 }
 .profile-pic img {
-    border-radius: 100px;
+    border-radius: 100px; /*rounds out the image*/
     max-width: 100%;
+}
+.hero {
+    background-image: url("hero.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    text-transform: uppercase;
+}
+.hero h1 {
+    position: relative;
+    margin-right: -30px;
+}
+.hero h2 {
+    color: #faa541;
+}
+.hero h1 h2 {
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 0.9;
 }
