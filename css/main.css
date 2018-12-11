@@ -58,11 +58,11 @@ color: #ffffff
 }
 .text-light {
     font-size: 30px;
-    font-display: #a0a0a0;
+    color: #a0a0a0;
 }
 .text-secondary {
     font-size: 30px;
-    font-display: #faa541;
+    color: #faa541;
 }
 .text-primary {
     font-size: 16px;
