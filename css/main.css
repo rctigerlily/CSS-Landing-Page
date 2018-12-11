@@ -116,3 +116,6 @@ color: #ffffff
     color: #364147;
     /* font-size: 14px; */
 }
+.account a {
+    font-size: 14px;
+}
